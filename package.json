@@ -7,35 +7,7 @@
   },
   "dependencies": {
     "express": "3.3.5",
-    "ejs": "*"
-  },
-    "title": "Createive",
-    "name": "startbootstrap-creative",
-    "version": "4.0.0-alpha",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "http://startbootstrap.com/template-overviews/creative",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
-    },
-    "dependencies": {
+    "ejs": "*",
         "bootstrap": "^4.0.0-alpha.6",
         "font-awesome": "4.7.0",
         "jquery": "^3.2.1",
